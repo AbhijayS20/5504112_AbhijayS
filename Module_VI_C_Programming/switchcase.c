@@ -6,7 +6,6 @@ int main()
     {
         printf("Enter number of day in the week (betweek 1 to 7): \n");
         scanf("%d", &num);
-
         switch (num)
         {
         case 1:
